@@ -1,6 +1,8 @@
 # IEEE ICME 2024 GRAND CHALLENGE - Semi-supervised Acoustic Scene Classification under Domain Shift
 ## SEMI-SUPERVISED ACOUSTIC SCENE CLASSIFICATION UNDER DOMAIN SHIFT USING AN ATTENTION MODULE AND ANGULAR LOSS
+
 Michael Neri and Marco Carli
+
 Roma Tre University, Department of Industrial, Electronic, and Mechanical Engineering
 
 # Instructions
