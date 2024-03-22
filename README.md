@@ -27,4 +27,21 @@ The structure of the project should be like the following:
 
 Then, it is possible to run the code from 📓 submission.ipynb in Google Colab. 
 
+--
+
+If you use parts of this repository, please cite the following works:
+
+```
+@ARTICLE{Neri_TASLP_2024,
+  author={\textbf{Neri, M.} and Archontis, P. and Krause, D. and Carli, M. and Virtanen, T.},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing (Accepted)}, 
+  title={{Speaker Distance Estimation in Enclosures from Single-Channel Audio}}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+  }
+```
+
 
