@@ -33,7 +33,7 @@ If you use parts of this repository, please cite the following works:
 
 ```
 @ARTICLE{Neri_TASLP_2024,
-  author={\textbf{Neri, M.} and Archontis, P. and Krause, D. and Carli, M. and Virtanen, T.},
+  author={Neri, M. and Archontis, P. and Krause, D. and Carli, M. and Virtanen, T.},
   journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing (Accepted)}, 
   title={{Speaker Distance Estimation in Enclosures from Single-Channel Audio}}, 
   year={2024},
