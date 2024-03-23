@@ -1,5 +1,5 @@
 # IEEE ICME 2024 GRAND CHALLENGE - Semi-supervised Acoustic Scene Classification under Domain Shift
-## SEMI-SUPERVISED ACOUSTIC SCENE CLASSIFICATION UNDER DOMAIN SHIFT USING AN ATTENTION MODULE AND ANGULAR LOSS
+## SEMI-SUPERVISED ACOUSTIC SCENE CLASSIFICATION UNDER DOMAIN SHIFT USING AN ATTENTION MODULE AND ANGULAR LOSS - RM3Team Submission
 
 Michael Neri and Marco Carli
 
@@ -36,7 +36,7 @@ If you use parts of this repository, please cite the following works:
 ```
 @ARTICLE{Neri_TASLP_2024,
   author={Neri, M. and Archontis, P. and Krause, D. and Carli, M. and Virtanen, T.},
-  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing (Accepted)}, 
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
   title={{Speaker Distance Estimation in Enclosures from Single-Channel Audio}}, 
   year={2024},
   volume={},
