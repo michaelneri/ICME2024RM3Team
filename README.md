@@ -31,7 +31,7 @@ Then, it is possible to run the code from 📓 submission.ipynb in Google Colab.
 
 --
 
-If you use parts of this repository, please cite the following works:
+If you use parts of this repository (mostly the attention module), please cite the following work:
 
 ```
 @ARTICLE{Neri_TASLP_2024,
