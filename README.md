@@ -3,7 +3,7 @@
 
 Michael Neri and Marco Carli
 
-Roma Tre University, Department of Industrial, Electronic, and Mechanical Engineering
+Department of Industrial, Electronic, and Mechanical Engineering, Roma Tre University, Rome, Italy
 
 # Instructions
 The structure of the project should be like the following:
@@ -29,7 +29,7 @@ The structure of the project should be like the following:
 
 Then, it is possible to run the code from 📓 submission.ipynb in Google Colab. 
 
---
+-------------
 
 If you use parts of this repository (mostly the attention module), please cite the following work:
 
@@ -44,6 +44,16 @@ If you use parts of this repository (mostly the attention module), please cite t
   pages={},
   doi={10.1109/TASLP.2024.3382504}
   }
+
+@INPROCEEDINGS{Neri_ICMEW_2024,
+  author={Neri, M. and Carli, M.},
+  booktitle={IEEE International Conference on Multimedia and Expo Workshop (ICMEW)}, 
+  title={{Semi-Supervised Acoustic Scene Classification under Domain Shift using Attention-based Separable Convolutions and Angular Loss}}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi= {}}
 ```
 
 
