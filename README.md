@@ -53,7 +53,7 @@ If you use parts of this repository (mostly the attention module), please cite t
   volume={},
   number={},
   pages={},
-  doi= {}}
+  doi= {10.1109/ICMEW63481.2024.10645482}}
 ```
 
 
